@@ -1,1 +1,1 @@
-This was an assignment I did for a computer vision course CMPT412 at Simon Fraser University. My requirements and results are in the pdfs. My results are most understandable on the last pages of my results pdf. I got full marks on this assignment.
+This was an assignment I did for a computer vision course CMPT412 at Simon Fraser University. My requirements and [results](My_assignment_report.pdf) are in the pdfs. My results are most understandable on the last pages of my results pdf. I got full marks on this assignment.
