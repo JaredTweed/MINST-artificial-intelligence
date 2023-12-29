@@ -3,6 +3,6 @@ This was an assignment I did for a computer vision course CMPT412 at Simon Frase
 
 MINST Optical Character Recognition, Sept 2023.  
 https://github.com/JaredTweed/MINST-artificial-intelligence 
-* Implemented and optimized core components of a deep neural network, including convolution, pooling, and ReLU layers, using Python.
+* Implemented and optimized core components of a deep neural network, including convolution, pooling, and ReLU layers, using Python and numpy.
 * Developed efficient forward and backward pass algorithms for image processing, demonstrating strong understanding of neural network architectures.
 * Achieved ~95% accuracy in image classification tasks through meticulous network training and parameter tuning over 2000 iterations.
